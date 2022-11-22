@@ -1,0 +1,35 @@
+.navbar {
+  background-image: linear-gradient(to left,rgb(230, 206, 206),rgb(200, 180, 180));
+    padding: 10px 120px;
+    color : black;
+  }
+
+.nav-link{
+    color:black;
+
+  }
+  
+.container11{
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color:rgb(255,193,7,0.08);
+  color : black;
+  padding: 0px 100px;
+}
+
+.row {
+  padding-top: 80px;
+  
+}
+.container12{
+  padding-top: 60px;
+  padding-left: 100px;
+  padding-bottom: 0px;
+  padding-right: 100px;
+}
+
+.footer {
+padding: 0px 25%;
+color: black;
+}
+
