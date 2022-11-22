@@ -22,6 +22,6 @@ admin.site.index_title = "Welcome to Admin Portal"
 
 
 urlpatterns = [
-    path('https://github.com/Prashant288/portfolio/', include('polls.urls')),
+    path('/', include('polls.urls')),
     path('admin/', admin.site.urls),
 ]
